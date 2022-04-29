@@ -1,0 +1,6 @@
+{
+  "productfeature": {
+    "component": "ProductFeature",
+    "composition": "children"
+  }
+}
